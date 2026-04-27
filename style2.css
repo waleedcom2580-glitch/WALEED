@@ -1,0 +1,375 @@
+
+    
+
+.navbar a{
+    text-decoration: none;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+.navbar a:hover{
+    transform: scale(1.5);
+    transition: 0.3s;
+}
+
+
+.navbar {
+
+  display: flex;
+  justify-content: center;
+  gap: 150px;
+  position: -webkit-sticky;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+  z-index: 1000;
+}  
+
+.navbar1{
+    transition: 0.5s;
+}
+
+
+
+.navbar2{
+    transition: 0.5s;
+}
+
+.navbar3{
+    transition: 0.5s;
+}
+
+
+.navbar4{
+    transition: 0.5s;
+}
+
+.p1{
+    font-size: 50px;
+    font-style: oblique;
+    margin-left: 40px;
+    font-weight: 300;
+    color: rgb(0, 0, 255);
+}
+
+body{
+    height: 2000px;
+    overflow-x: hidden;
+    background: url(imgs/porche\ \ s.webp);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-color: rgb(255, 255, 255);
+}
+
+
+h1{
+    color: rgb(4, 8, 255);
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 50px;
+    font-size: 100px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.img1{
+    width: 250px;
+    position: relative;
+    top: 130px;
+    left: 200px;
+}
+    
+.title{
+    position: relative;
+    top: 70px;
+    left: 255px;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+
+.p2{
+    position: relative;
+    top: 70px;
+    left: 130px;
+    font-size: 20px;
+    font-family: arial;
+}
+
+.img2{
+    width: 230px;
+    display: block;
+    margin: 0 1000px ;
+    position: relative;
+    bottom: 230px;   
+}
+
+
+.p3{
+    position: relative;
+    bottom: 275px;
+    left: 850px;
+    font-size: 20px;
+    font-family: arial;
+}
+
+
+.title2{
+    position: relative;
+    bottom: 275px;
+    left: 1060px;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+.navbar a{
+    text-decoration: none;
+    font-size: 40px;
+    color: rgb(249, 249, 255);
+}
+.navbar a:hover{
+    transform: scale(1.5);
+    transition: 0.3s;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    position: relative;
+    top: 35px;  
+}
+
+
+
+
+.p1{
+    font-size: 50px;
+    font-style: oblique;
+    margin-left: 40px;
+    font-weight: 300;
+    color: aliceblue;
+}
+
+body{
+    height: 5000px;
+    overflow-x: hidden;
+    background: url(imgs/porche\ \ s.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: rgb(255, 255, 255);
+}
+
+
+h1{
+    color: rgba(255, 255, 255, 0.604);
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 50px;
+    font-size: 100px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.img1{
+    width: 250px;
+    position: relative;
+    top: 130px;
+    left: 200px;
+}
+    
+.title{
+    position: relative;
+    top: 70px;
+    left: 255px;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+
+.p2{
+    position: relative;
+    top: 70px;
+    left: 130px;
+    font-size: 20px;
+    font-family: arial;
+}
+
+.img2{
+    width: 230px;
+    display: block;
+    margin: 0 1000px ;
+    position: relative;
+    bottom: 230px;   
+}
+
+
+.p3{
+    position: relative;
+    bottom: 275px;
+    left: 850px;
+    font-size: 20px;
+    font-family: arial;
+}
+
+
+.title2{
+    position: relative;
+    bottom: 275px;
+    left: 1060px;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+.icon1{
+    border-radius: 50px;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+.img3{
+    width: 180px;
+    display: block;
+    margin: 0 1640px ;
+    position: relative;
+    bottom: 550px; 
+}
+
+.p4{
+    text-align: justify;
+    position: relative;
+    bottom: 575px;
+    left: 1550px;
+    font-size: 20px;
+    font-family: arial;
+}
+
+
+.title3{
+    position: relative;
+    bottom: 580px;
+    left: 1700px;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+
+
+.Explore{
+    position: relative;
+    bottom: 505px;
+    left: 850px;
+    width: 380px;
+    height: 60px;
+    border-radius: 50px;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: italic;
+    background-color: rgb(255, 0, 0);
+    transition: 0.3s;
+}
+
+
+.Explore:hover{
+    transform: scale(1.2);
+    background-color: blue;
+    font-weight: bold;
+    color: black;
+}
+
+
+.img4{
+    width: 1000px;
+    position: relative;
+    bottom: 300px;
+    border-radius: 100px;
+}
+
+
+.container {
+  display: flex;
+  align-items: center;
+  gap: 80px;
+}
+.ul1{
+    position: relative;
+    bottom: 300px;
+    font-size: xx-large;
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+}
+
+.img5{
+    width: 1000px;
+    position: relative;
+    bottom: 00px;
+    border-radius: 100px;
+}
+
+.container2{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    flex-direction: row-reverse;
+}
+
+
+.ul2{
+    direction: rtl;
+    font-size: xx-large;
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+}
+
+
+
+.img6{
+    width: 1000px;
+    border-radius: 100px;
+    position: relative;
+    top: 250px;
+}
+
+
+.container3{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+}
+
+
+.ul3{
+    font-size: xx-large;
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    position: relative;
+    top: 250px;
+}
+
+
+.video1{
+    position: relative;
+    top: 500px;
+    align-items: center;
+}
